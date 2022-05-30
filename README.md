@@ -55,3 +55,6 @@ Letter 'A': Space that was shot but had no vessel
 Letter 'X': Space that was shot and had a vessel.
 - At each turn, the program must clear the screen and present the opponent's board
 - When a trigger is correct, the program should display a message and also when the trigger is wrong.
+
+## Bonus challenge
+- Develop an algorithm that allows you to play against the computer. (Just answer "Nao" when asked if it's a multiplayer).
